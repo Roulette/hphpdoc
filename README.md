@@ -1,3 +1,5 @@
+# CLI command
+hhvm -d hhvm.hack.lang.look_for_typechecker=0 ../bin/hphpdoc ../../phmm-2/src/base/ -o build
 # hphpdoc
 API Documentation Generator for Hack/HHVM and PHP
 
